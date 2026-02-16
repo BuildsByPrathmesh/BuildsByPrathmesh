@@ -16,6 +16,11 @@
 ## ⚡ Daily Development Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 *(Shows daily coding time, files edited, and languages automatically)*

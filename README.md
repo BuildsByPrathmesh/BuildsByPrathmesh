@@ -30,8 +30,6 @@ PHP              38 mins         ████████░░░░░░░�
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BuildsByPrathmesh&show_icons=true&theme=tokyonight&cache_seconds=6)
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BuildsByPrathmesh&theme=tokyonight)
 

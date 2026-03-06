@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Marathe</h1>
-<h3 align="center">B.Tech Student | Tech + Spiritual Organizer | Web & Blockchain Enthusiast</h3>
+<h3 align="center">B.Tech Student | Tech + Event Organizer | Web & Blockchain Enthusiast</h3>
 
 ---
 
